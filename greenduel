@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jxoahmed112-dev/greendue/main/green.lua"))()
